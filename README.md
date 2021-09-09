@@ -1,5 +1,4 @@
-### Hi there 👋
-
+🧑🏻‍💻🧑🏻‍💻🧑🏻‍💻
 <!--
 **TheBeard30/TheBeard30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
